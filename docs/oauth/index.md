@@ -60,7 +60,7 @@ access_token=response.json().get("access_token")
   <br>
   
   ## What is next?
-  Depending on the scopes you picked you may do different things. Get started by taking a look at the [user](/developers/docs/user) endpoints and the [file](/developers/docs/files) endpoints
+  Depending on the scopes you picked you may do different things. Get started by taking a look at the [user](/developers/docs/user) endpoints.
   
 
 
